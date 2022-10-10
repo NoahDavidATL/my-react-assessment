@@ -26,3 +26,5 @@ Modal Window:<br />
 Mobile:<br />
 <img width="366" alt="image" src="https://user-images.githubusercontent.com/9658655/194941624-31168b70-80ea-4d9d-952b-79c2196b8d5a.png">
 
+Original Desktop before any Edits:<br />
+<img width="894" alt="image" src="https://user-images.githubusercontent.com/9658655/194943083-d40bb969-d7f1-431e-9622-09e3e9ae77f7.png">
